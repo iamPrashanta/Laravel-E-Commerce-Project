@@ -14,7 +14,7 @@ This project is an E-Commerce platform built using Laravel. It provides function
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/iamPrashanta/Laravel-E-Commerce-Project.git](https://github.com/iamPrashanta/Laravel-E-Commerce-Project.git)`
+1. Clone the repository: `git clone https://github.com/iamPrashanta/Laravel-E-Commerce-Project.git`
 2. Install dependencies: `composer install`
 3. Set up your environment variables: `.env`
 4. Run migrations: `php artisan migrate`
